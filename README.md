@@ -81,9 +81,9 @@ const { Builder, By, Key, until } = require('selenium-webdriver');
 1.	**Preparación:**
 	-	Asegúrate de tener Node.js y npm instalados.
 	-	Clona o descarga el proyecto de la estructura dada.
-	-	Navega a la carpeta del proyecto y ejecuta npm install para instalar las dependencias.
+	-	Navega a la carpeta del proyecto y ejecuta `npm install` para instalar las dependencias.
 2.	**Ejecución de la Prueba:**
-	-	Ejecuta el comando npm test para correr la prueba.
+	-	Ejecuta el comando `npm test` para correr la prueba.
 3.	**Tareas:**
 	-	Ejecuta la prueba y verifica si pasa o falla.
 	-	Si la prueba falla, identifica el problema y propón una solución.
