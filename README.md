@@ -18,7 +18,7 @@ La prueba verifica que la funcionalidad de búsqueda en Google funciona correcta
 
 ##### Estructura del Proyecto
 
-	qa_test/
+	Selenium-WebDriver-JavaScript-Test-QA-Junior/
 	├── node_modules/
 	├── tests/
 	│   └── google_search_test.js
